@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ai-agent-output/
+*.log
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
